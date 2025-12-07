@@ -28,10 +28,13 @@ Ce projet est destiné à être **téléchargé tel quel depuis GitHub** et exé
 ### 1. Cloner le projet
 
 ```bash
-git clone <URL_DU_REPO>
-cd <NOM_DU_DOSSIER>
+git clone https://github.com/BahaeddineKlai/Brain-Tumor-Detection-FastApi.git
+cd Brain-Tumor-Detection-FastApi
 ```
-
+ou Télécharger et extraire directement 
+````
+https://github.com/BahaeddineKlai/Brain-Tumor-Detection-FastApi
+````
 ### 2. Créer un environnement virtuel
 
 Sous Windows :
