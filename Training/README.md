@@ -11,7 +11,7 @@ Ce script est con√ßu pour fonctionner dans **Google Colab** et utilise les donn√
 Le code attend une structure de dossiers comme celle-ci :
 
 ```
-brain_tumor_dataset/
+brain_tumor_dataset/||||||||||||||
   Training/
     Classe_A/
       img1.jpg
